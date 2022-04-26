@@ -1,0 +1,14 @@
+@import "./views/Habits";
+
+.App {
+  text-align: center;
+  padding-left: calc(100vw - 100%);
+
+  .header {
+    background-color: #1890ff;
+    color: white;
+    border-bottom: 1px #cccccc solid;
+    padding: 5px;
+    font-size: 25px;
+}
+}
